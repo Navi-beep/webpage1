@@ -5,16 +5,15 @@ body {
 }
 
 h1 {
-  color: darkslateblue;
+  color: black;
   margin-left: 20px;
   text-align: center;
 }
 
 img {
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 350px;
   border:2px solid #fff;
-  background: url(pb2.jpg) no-repeat;
   box-shadow: 10px 10px 5px #ccc;
   -moz-box-shadow: 10px 10px 5px #ccc;
   -webkit-box-shadow: 10px 10px 5px #ccc;
