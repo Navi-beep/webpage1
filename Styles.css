@@ -1,7 +1,6 @@
 body {
   background-image: url(aurora.jpeg);
   background-size: contain;
-  opacity: 0.7;
 
   text-align: center;
 
@@ -11,6 +10,11 @@ h1 {
   color: black;
   margin-left: 20px;
   text-align: center;
+  text-shadow: 2px 2px lightslategrey;
+}
+
+p {
+  text-shadow: 1px 1px darkslategrey;
 }
 
 img {
