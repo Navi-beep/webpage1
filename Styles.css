@@ -1,5 +1,5 @@
 body {
-  background-image: url(aurora.jpeg);
+  background-color: #4f4e4c;
   background-size: contain;
 
   text-align: center;
@@ -14,9 +14,20 @@ h1 {
   text-shadow: 2px 2px lightslategrey;
 }
 
+.bee {position: relative; width: 200px; height: 200px; overflow: hidden;}
+
+h2 {
+  color: black;
+  margin-left: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-shadow: 2px 2px lightslategrey;
+}
+
 p {
   text-shadow: 1px 1px darkslategrey;
 }
+
 
 img {
   width: 500px;
